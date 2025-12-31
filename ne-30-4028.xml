@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act name="statute"><akn:meta><akn:identification source="#legislature-ne"><akn:FRBRWork><akn:FRBRthis value="/akn/us-ne/act/30/4028" /><akn:FRBRuri value="/akn/us-ne/act/30/4028" /><akn:FRBRdate date="2025-12-31" name="generation" /><akn:FRBRauthor href="#legislature-ne" /><akn:FRBRcountry value="us-ne" /><akn:FRBRnumber value="30-4028" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRthis value="/akn/us-ne/act/30/4028/eng@2025-12-31" /><akn:FRBRuri value="/akn/us-ne/act/30/4028/eng@2025-12-31" /><akn:FRBRdate date="2025-12-31" name="generation" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="eng" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRthis value="/akn/us-ne/act/30/4028/eng@2025-12-31/akn.xml" /><akn:FRBRuri value="/akn/us-ne/act/30/4028/eng@2025-12-31/akn.xml" /><akn:FRBRdate date="2025-12-31" name="generation" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification><akn:publication date="2025-12-31" name="Nebraska Revised Statutes" showAs="Nebraska Revised Statutes" /><akn:notes source="#legislature-ne"><akn:note eId="source_0"><akn:p>Laws 2012, LB1113, § 28.</akn:p></akn:note></akn:notes></akn:meta><akn:body><akn:chapter eId="chp_30"><akn:num>30</akn:num><akn:section eId="sec_30-4028"><akn:num>30-4028</akn:num><akn:heading>Tangible personal property.</akn:heading><akn:content><akn:p eId="sec_30-4028__p_1">Unless the power of attorney
+otherwise provides, language in a power of attorney granting general authority
+with respect to tangible personal property authorizes the agent to:</akn:p><akn:p eId="sec_30-4028__p_2">(1) Demand, buy, receive,
+accept as a gift or as security for an extension of credit, or otherwise acquire
+or reject ownership or possession of tangible personal property or an interest
+in tangible personal property;</akn:p><akn:p eId="sec_30-4028__p_3">(2) Sell; exchange; convey with or without covenants,
+representations, or warranties; quitclaim; release; surrender; create a security
+interest in; grant options concerning; lease; sublease; or, otherwise dispose
+of tangible personal property or an interest in tangible personal property;</akn:p><akn:p eId="sec_30-4028__p_4">(3) Grant a security
+interest in tangible personal property or an interest in tangible personal
+property as security to borrow money or pay, renew, or extend the time of
+payment of a debt of the principal or a debt guaranteed by the principal;</akn:p><akn:p eId="sec_30-4028__p_5">(4) Release, assign,
+satisfy, or enforce by litigation or otherwise, a security interest, lien,
+or other claim on behalf of the principal, with respect to tangible personal
+property or an interest in tangible personal property;</akn:p><akn:p eId="sec_30-4028__p_6">(5) Manage or conserve
+tangible personal property or an interest in tangible personal property on
+behalf of the principal, including:</akn:p><akn:p eId="sec_30-4028__p_7">(a) Insuring against liability or casualty or other
+loss;</akn:p><akn:p eId="sec_30-4028__p_8">(b)
+Obtaining or regaining possession of or protecting the property or interest,
+by litigation or otherwise;</akn:p><akn:p eId="sec_30-4028__p_9">(c) Paying, assessing, compromising, or contesting
+taxes or assessments or applying for and receiving refunds in connection with
+taxes or assessments;</akn:p><akn:p eId="sec_30-4028__p_10">(d)
+Moving the property from place to place;</akn:p><akn:p eId="sec_30-4028__p_11">(e) Storing the property for hire or on a gratuitous
+bailment; and</akn:p><akn:p eId="sec_30-4028__p_12">(f)
+Using and making repairs, alterations, or improvements to the property; and</akn:p><akn:p eId="sec_30-4028__p_13">(6) Change the form of
+title of an interest in tangible personal property.</akn:p></akn:content></akn:section></akn:chapter></akn:body></akn:act></akn:akomaNtoso>
